@@ -37,7 +37,7 @@ const BirthdaySurprise = () => {
             transition={{ duration: 1 }}
           >
             <motion.h1 className="text-6xl font-bold text-pink-600">
-              Happy Birthday!
+              Happy Birthday Chutiye!
             </motion.h1>
           </motion.div>
         )}
